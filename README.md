@@ -47,6 +47,22 @@ Librerías:
 
 computador dell, i7 11th, 24 ram, pantalla 15.6 inches
 
+## **Aclaración**
+Este proyecto está diseñado para fines educativos y de desarrollo local.
+
+## **Autor**
+Juan Sebastián Fajardo Acevedo: Trabajo inicial y mantenimiento del proyecto.
+
+## **License**
+
+Este proyecto está licenciado bajo la Licencia MIT. Se puede conmsultar el archivo LICENSE.md para más detalles.
+
+## **Agradecimientos**
+
+Este proyecto fue inspirado por cursos de álgebra lineal, análisis complejo, y de computación cuántica.
+
+Agradecimientos especiales a la comunidad de Python por sus increíbles bibliotecas y recursos.
+
 ## **Referencias**
 
 Matemáticas de la Interferencia
